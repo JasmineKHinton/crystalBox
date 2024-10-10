@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 from mantid.plots.utility import MantidAxType
 from mantid.api import AnalysisDataService as ADS
 
+#JASMINE WAS HERE#
+
 defaultCifFolder = '/SNS/SNAP/shared/cifLibrary'
 
 class Box:
